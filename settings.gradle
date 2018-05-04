@@ -1,0 +1,1 @@
+include ':app', ':truesdk-0.6'

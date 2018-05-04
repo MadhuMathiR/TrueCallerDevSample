@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TrueCallerDevSample</string>
+    <string name="action_settings">Settings</string>
+    <!--have to give app key as partner key -->
+<!--
+    <string name="partnerKey">7wImc09f5b6a67f1946efa0e6b087096109af</string>
+-->
+    <string name="partnerKey">V8yOBb43521a470b347229ce055a6b686ec76</string>
+
+</resources>
